@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/cquintero99/argon-dashboard-react/issues"
   },
-  "homepage": "https://github.com/cquintero99/argon-dashboard-react/",
+  "homepage": "https://cquintero99.github.io/argon-dashboard-react/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
